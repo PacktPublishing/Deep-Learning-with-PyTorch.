@@ -9,21 +9,9 @@ from model import NN
 
 app = FastAPI()
 
-parser = argparse.ArgumentParser(description="Load a model checkpoint.")
-
-# Add argument for model checkpoint path
-parser.add_argument(
-    "--checkpoint-path",
-    type=str,
-    default='./checkpoint.pt',
-    help="Path to the model checkpoint file (.pt or .pth)",
-)
-# Parse arguments
-args = parser.parse_args()
-
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 model = NN().to(device)
-model.load_from_path(args.checkpoint_path)
+model.load_from_path('./checkpoint.pt')
 
 
 @app.post("/mnist/v1/")
