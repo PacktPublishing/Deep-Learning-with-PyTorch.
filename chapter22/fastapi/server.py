@@ -5,6 +5,8 @@ import argparse
 from fastapi import FastAPI, UploadFile, File
 from PIL import Image
 from io import BytesIO
+
+# import neural network class from our model.py file 
 from model import NN
 
 app = FastAPI()
