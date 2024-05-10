@@ -6,9 +6,8 @@ import base64
 image_path = "sample.jpg"
 with open(image_path, "rb") as f:
     image_bytes = f.read()
-
-# Encode image bytes as base64 string
-base64_image = base64.b64encode(image_bytes).decode("utf-8")
+	# Encode image bytes as base64 string
+	base64_image = base64.b64encode(image_bytes).decode("utf-8")
 
 # Prepare data payload with base64-encoded image
 data = {"input": base64_image}
