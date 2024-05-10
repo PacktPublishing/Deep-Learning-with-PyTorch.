@@ -1,0 +1,17 @@
+{
+	"ulid": "01HXGGBMDAW0582CKTYCR5XT40",
+	"minTime": 1715306490651,
+	"maxTime": 1715313600000,
+	"stats": {
+		"numSamples": 243,
+		"numSeries": 27,
+		"numChunks": 27
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HXGGBMDAW0582CKTYCR5XT40"
+		]
+	},
+	"version": 1
+}

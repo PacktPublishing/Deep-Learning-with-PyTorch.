@@ -1,0 +1,461 @@
+2024-05-10T00:14:46,137 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57852 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T00:19:34,129 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57852 "GET /metrics HTTP/1.1" 200 6
+2024-05-10T00:19:39,118 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57852 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T00:19:44,125 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57852 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T00:19:49,118 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57852 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T00:35:45,665 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57876 "GET /metrics HTTP/1.1" 200 57
+2024-05-10T00:35:50,487 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57876 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T00:52:50,983 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57878 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T01:08:09,481 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57880 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T01:25:20,047 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57886 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T01:41:31,554 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57890 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T01:59:09,086 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57900 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T02:15:51,584 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57902 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T02:31:52,120 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57905 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T02:49:25,624 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57908 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T03:07:10,146 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57914 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T03:24:33,738 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57920 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T03:24:38,696 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57920 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T03:40:47,234 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57930 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T03:57:14,263 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57941 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T04:15:15,798 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57946 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T04:31:16,320 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57950 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T04:49:19,859 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57953 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T05:06:43,368 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57967 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T05:23:33,908 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57975 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T05:38:55,397 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57986 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T05:56:31,895 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57993 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T05:56:36,841 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:57993 "GET /metrics HTTP/1.1" 200 5
+2024-05-10T06:12:57,310 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58002 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T06:24:42,821 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58008 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T06:42:08,949 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58011 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T06:59:35,521 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58018 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T07:15:15,087 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58026 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T07:31:30,659 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58032 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T07:48:26,182 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58035 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T08:04:11,659 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58040 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T08:21:26,163 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58045 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T08:37:13,699 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58050 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T08:37:18,666 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58050 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T08:55:12,125 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58059 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T09:10:52,610 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58069 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T09:26:24,207 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58073 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T09:43:27,725 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58083 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T10:00:47,204 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58094 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T10:16:41,728 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58103 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T10:32:44,236 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58111 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T10:49:25,750 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58118 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:05:45,270 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58126 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:11:36,401 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:11:41,332 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 7
+2024-05-10T11:11:46,320 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:11:51,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:11:56,327 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 8
+2024-05-10T11:12:01,350 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:12:06,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:11,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:16,325 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:21,327 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:12:26,324 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:12:31,325 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:36,329 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:12:41,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:46,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:51,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:12:56,324 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:13:01,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:13:06,320 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:13:11,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:13:16,323 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:13:21,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:13:26,328 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:13:31,329 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:13:36,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:13:41,327 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:13:46,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:13:51,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:13:56,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:14:01,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:14:06,320 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:14:11,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:14:16,327 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:14:21,320 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:14:26,330 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:14:31,334 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:14:36,323 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:14:41,324 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:14:46,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:14:51,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:14:56,330 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:15:01,323 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:15:06,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:15:11,322 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:15:16,333 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 5
+2024-05-10T11:15:21,324 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:15:26,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:15:31,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:15:36,324 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:15:41,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:15:46,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:15:51,321 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:15:56,333 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:16:01,326 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:16:06,325 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:16:11,323 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:16:16,323 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:17:38,079 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:17:43,087 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:17:48,089 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 13
+2024-05-10T11:17:53,075 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:17:58,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:18:03,075 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:18:08,076 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:18:13,079 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:18:18,077 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 4
+2024-05-10T11:18:23,072 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:18:28,077 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:18:33,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:18:38,077 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:18:43,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:18:48,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:18:53,074 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:18:58,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:19:03,074 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:19:08,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:19:13,074 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:19:18,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:19:23,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:19:28,072 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:19:33,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:19:38,077 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:19:43,075 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:19:48,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:19:53,076 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:19:58,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:20:03,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:08,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:20:13,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:20:18,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:23,070 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:28,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:33,072 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:38,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:43,072 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:20:48,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:20:53,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:20:58,070 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:21:03,074 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:21:08,090 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 11
+2024-05-10T11:21:13,086 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:18,072 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:23,070 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:21:28,079 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:33,070 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:21:38,074 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:43,080 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 3
+2024-05-10T11:21:48,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:53,073 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:21:58,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 2
+2024-05-10T11:22:03,070 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:22:08,069 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:22:13,069 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 0
+2024-05-10T11:22:18,071 [INFO ] nioEventLoopGroup-4-1 ACCESS_LOG - /127.0.0.1:58138 "GET /metrics HTTP/1.1" 200 1
+2024-05-10T11:27:57,691 [WARN ] main org.pytorch.serve.util.ConfigManager - Your torchserve instance can access any URL to load models. When deploying to production, make sure to limit the set of allowed_urls in config.properties
+2024-05-10T11:27:57,691 [WARN ] main org.pytorch.serve.util.ConfigManager - Your torchserve instance can access any URL to load models. When deploying to production, make sure to limit the set of allowed_urls in config.properties
+2024-05-10T11:27:57,692 [INFO ] main org.pytorch.serve.servingsdk.impl.PluginsManager - Initializing plugins manager...
+2024-05-10T11:27:57,692 [INFO ] main org.pytorch.serve.servingsdk.impl.PluginsManager - Initializing plugins manager...
+2024-05-10T11:27:57,722 [INFO ] main org.pytorch.serve.metrics.configuration.MetricConfiguration - Successfully loaded metrics configuration from /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml
+2024-05-10T11:27:57,722 [INFO ] main org.pytorch.serve.metrics.configuration.MetricConfiguration - Successfully loaded metrics configuration from /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml
+2024-05-10T11:27:57,757 [INFO ] main org.pytorch.serve.ModelServer - 
+Torchserve version: 0.10.0
+TS Home: /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages
+Current directory: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve
+Temp directory: /var/folders/12/8gn813wd5qx_0x1_rgrm_66m0000gn/T/
+Metrics config path: /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml
+Number of GPUs: 0
+Number of CPUs: 8
+Max heap size: 2048 M
+Python executable: /Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3
+Config file: config.properties
+Inference address: http://127.0.0.1:8080
+Management address: http://127.0.0.1:8081
+Metrics address: http://127.0.0.1:8082
+Model Store: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/model_store
+Initial Models: mnist_model=./model_store/mnist_model.mar
+Log dir: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/logs
+Metrics dir: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/logs
+Netty threads: 0
+Netty client threads: 0
+Default workers per model: 8
+Blacklist Regex: N/A
+Maximum Response Size: 6553500
+Maximum Request Size: 6553500
+Limit Maximum Image Pixels: true
+Prefer direct buffer: false
+Allowed Urls: [file://.*|http(s)?://.*]
+Custom python dependency for model allowed: false
+Enable metrics API: true
+Metrics mode: PROMETHEUS
+Disable system metrics: false
+Workflow Store: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/model_store
+CPP log config: N/A
+Model config: N/A
+System metrics command: default
+2024-05-10T11:27:57,757 [INFO ] main org.pytorch.serve.ModelServer - 
+Torchserve version: 0.10.0
+TS Home: /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages
+Current directory: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve
+Temp directory: /var/folders/12/8gn813wd5qx_0x1_rgrm_66m0000gn/T/
+Metrics config path: /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml
+Number of GPUs: 0
+Number of CPUs: 8
+Max heap size: 2048 M
+Python executable: /Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3
+Config file: config.properties
+Inference address: http://127.0.0.1:8080
+Management address: http://127.0.0.1:8081
+Metrics address: http://127.0.0.1:8082
+Model Store: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/model_store
+Initial Models: mnist_model=./model_store/mnist_model.mar
+Log dir: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/logs
+Metrics dir: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/logs
+Netty threads: 0
+Netty client threads: 0
+Default workers per model: 8
+Blacklist Regex: N/A
+Maximum Response Size: 6553500
+Maximum Request Size: 6553500
+Limit Maximum Image Pixels: true
+Prefer direct buffer: false
+Allowed Urls: [file://.*|http(s)?://.*]
+Custom python dependency for model allowed: false
+Enable metrics API: true
+Metrics mode: PROMETHEUS
+Disable system metrics: false
+Workflow Store: /Users/atifadib/Deep-Learning-with-PyTorch./chapter22/torchserve/model_store
+CPP log config: N/A
+Model config: N/A
+System metrics command: default
+2024-05-10T11:27:57,762 [INFO ] main org.pytorch.serve.servingsdk.impl.PluginsManager -  Loading snapshot serializer plugin...
+2024-05-10T11:27:57,762 [INFO ] main org.pytorch.serve.servingsdk.impl.PluginsManager -  Loading snapshot serializer plugin...
+2024-05-10T11:27:57,771 [INFO ] main org.pytorch.serve.ModelServer - Loading initial models: ./model_store/mnist_model.mar
+2024-05-10T11:27:57,771 [INFO ] main org.pytorch.serve.ModelServer - Loading initial models: ./model_store/mnist_model.mar
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelVersionedRefs - Adding new version 1.0 for model mnist_model
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelVersionedRefs - Adding new version 1.0 for model mnist_model
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelVersionedRefs - Setting default version to 1.0 for model mnist_model
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelVersionedRefs - Setting default version to 1.0 for model mnist_model
+2024-05-10T11:27:57,831 [INFO ] main org.pytorch.serve.wlm.ModelManager - Model mnist_model loaded.
+2024-05-10T11:27:57,831 [INFO ] main org.pytorch.serve.wlm.ModelManager - Model mnist_model loaded.
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelManager - updateModel: mnist_model, count: 8
+2024-05-10T11:27:57,831 [DEBUG] main org.pytorch.serve.wlm.ModelManager - updateModel: mnist_model, count: 8
+2024-05-10T11:27:57,836 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9004, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9002, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9004, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9007, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9003, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9007, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,837 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9001, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9005, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,837 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9000, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9006, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9002, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,837 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9001, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9005, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9006, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,837 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9000, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,836 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerLifeCycle - Worker cmdline: [/Users/atifadib/opt/anaconda3/envs/torch_env/bin/python3, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/model_service_worker.py, --sock-type, tcp, --port, 9003, --metrics-config, /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml]
+2024-05-10T11:27:57,837 [INFO ] main org.pytorch.serve.ModelServer - Initialize Inference server with: NioServerSocketChannel.
+2024-05-10T11:27:57,837 [INFO ] main org.pytorch.serve.ModelServer - Initialize Inference server with: NioServerSocketChannel.
+2024-05-10T11:27:57,949 [INFO ] main org.pytorch.serve.ModelServer - Inference API bind to: http://127.0.0.1:8080
+2024-05-10T11:27:57,949 [INFO ] main org.pytorch.serve.ModelServer - Inference API bind to: http://127.0.0.1:8080
+2024-05-10T11:27:57,949 [INFO ] main org.pytorch.serve.ModelServer - Initialize Management server with: NioServerSocketChannel.
+2024-05-10T11:27:57,949 [INFO ] main org.pytorch.serve.ModelServer - Initialize Management server with: NioServerSocketChannel.
+2024-05-10T11:27:57,958 [INFO ] main org.pytorch.serve.ModelServer - Management API bind to: http://127.0.0.1:8081
+2024-05-10T11:27:57,958 [INFO ] main org.pytorch.serve.ModelServer - Management API bind to: http://127.0.0.1:8081
+2024-05-10T11:27:57,958 [INFO ] main org.pytorch.serve.ModelServer - Initialize Metrics server with: NioServerSocketChannel.
+2024-05-10T11:27:57,958 [INFO ] main org.pytorch.serve.ModelServer - Initialize Metrics server with: NioServerSocketChannel.
+2024-05-10T11:27:57,959 [INFO ] main org.pytorch.serve.ModelServer - Metrics API bind to: http://127.0.0.1:8082
+2024-05-10T11:27:57,959 [INFO ] main org.pytorch.serve.ModelServer - Metrics API bind to: http://127.0.0.1:8082
+2024-05-10T11:27:58,159 [WARN ] pool-3-thread-1 org.pytorch.serve.metrics.MetricCollector - worker pid is not available yet.
+2024-05-10T11:27:58,159 [WARN ] pool-3-thread-1 org.pytorch.serve.metrics.MetricCollector - worker pid is not available yet.
+2024-05-10T11:28:00,451 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9002
+2024-05-10T11:28:00,451 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9003
+2024-05-10T11:28:00,451 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9004
+2024-05-10T11:28:00,451 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9001
+2024-05-10T11:28:00,451 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9006
+2024-05-10T11:28:00,454 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - [PID]40280
+2024-05-10T11:28:00,454 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - [PID]40278
+2024-05-10T11:28:00,454 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - [PID]40276
+2024-05-10T11:28:00,455 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9002-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,455 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9006-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,456 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9004-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,455 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,457 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,456 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9004-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,455 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9006-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,455 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9002-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,455 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,455 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,458 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,458 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,462 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-05-10T11:28:00,464 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,464 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - [PID]40283
+2024-05-10T11:28:00,465 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,465 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9003-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,465 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9003-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,465 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - [PID]40281
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,466 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9001-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,466 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9001-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,466 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9007
+2024-05-10T11:28:00,472 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9006
+2024-05-10T11:28:00,472 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9006
+2024-05-10T11:28:00,472 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9001
+2024-05-10T11:28:00,472 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9004
+2024-05-10T11:28:00,472 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9003
+2024-05-10T11:28:00,472 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9001
+2024-05-10T11:28:00,472 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9003
+2024-05-10T11:28:00,472 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9002
+2024-05-10T11:28:00,472 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9002
+2024-05-10T11:28:00,472 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9004
+2024-05-10T11:28:00,476 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - [PID]40277
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,477 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9005
+2024-05-10T11:28:00,477 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9007-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,477 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9007-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,477 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - [PID]40282
+2024-05-10T11:28:00,478 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9007
+2024-05-10T11:28:00,478 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9007
+2024-05-10T11:28:00,478 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9000-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,478 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9000-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9000
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9000
+2024-05-10T11:28:00,492 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,493 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - [PID]40279
+2024-05-10T11:28:00,493 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,494 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,494 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9005-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,494 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9005-mnist_model_1.0 State change null -> WORKER_STARTED
+2024-05-10T11:28:00,494 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9005
+2024-05-10T11:28:00,494 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Connecting to: /127.0.0.1:9005
+2024-05-10T11:28:00,505 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2024-05-10T11:28:00,505 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-05-10T11:28:00,505 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2024-05-10T11:28:00,506 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2024-05-10T11:28:00,505 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2024-05-10T11:28:00,505 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2024-05-10T11:28:00,505 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2024-05-10T11:28:00,505 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2024-05-10T11:28:00,514 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,514 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd LOAD repeats 1 to backend at: 1715320680514
+2024-05-10T11:28:00,515 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,515 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,516 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,516 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,515 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,516 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,516 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,515 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,516 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,516 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,515 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,516 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,516 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,515 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680515
+2024-05-10T11:28:00,516 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,516 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715320680516
+2024-05-10T11:28:00,588 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,588 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,588 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,610 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:01,193 [WARN ] W-9000-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,194 [WARN ] W-9000-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,196 [WARN ] W-9004-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,196 [WARN ] W-9004-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,206 [WARN ] W-9007-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,207 [WARN ] W-9007-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,207 [WARN ] W-9005-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,207 [WARN ] W-9005-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,212 [WARN ] W-9006-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,214 [WARN ] W-9006-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,216 [WARN ] W-9001-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,216 [WARN ] W-9001-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,217 [WARN ] W-9003-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,218 [WARN ] W-9003-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,221 [WARN ] W-9002-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,221 [WARN ] W-9002-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:02,274 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1757
+2024-05-10T11:28:02,274 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1757
+2024-05-10T11:28:02,276 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9006-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,276 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9006-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,282 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1765
+2024-05-10T11:28:02,282 [INFO ] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1765
+2024-05-10T11:28:02,282 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9000-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,282 [DEBUG] W-9000-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9000-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,284 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1768
+2024-05-10T11:28:02,284 [INFO ] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1768
+2024-05-10T11:28:02,284 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9003-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,284 [DEBUG] W-9003-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9003-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,285 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1769
+2024-05-10T11:28:02,285 [INFO ] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1769
+2024-05-10T11:28:02,285 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9001-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,285 [DEBUG] W-9001-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9001-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,286 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1770
+2024-05-10T11:28:02,286 [INFO ] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1770
+2024-05-10T11:28:02,286 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9007-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,286 [DEBUG] W-9007-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9007-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,288 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1772
+2024-05-10T11:28:02,288 [INFO ] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1772
+2024-05-10T11:28:02,288 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9005-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,288 [DEBUG] W-9005-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9005-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,291 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1775
+2024-05-10T11:28:02,291 [INFO ] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1775
+2024-05-10T11:28:02,291 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9002-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,291 [DEBUG] W-9002-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9002-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,307 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1791
+2024-05-10T11:28:02,307 [INFO ] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 1791
+2024-05-10T11:28:02,307 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9004-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:02,307 [DEBUG] W-9004-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - W-9004-mnist_model_1.0 State change WORKER_STARTED -> WORKER_MODEL_LOADED
+2024-05-10T11:28:04,453 [INFO ] pool-2-thread-9 ACCESS_LOG - /127.0.0.1:58178 "GET /ping/mnist_model HTTP/1.1" 200 5
+2024-05-10T11:41:11,465 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd PREDICT repeats 1 to backend at: 1715321471465
+2024-05-10T11:41:11,465 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Flushing req.cmd PREDICT repeats 1 to backend at: 1715321471465
+2024-05-10T11:41:11,466 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715321471466
+2024-05-10T11:41:11,466 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Looping backend response at: 1715321471466
+2024-05-10T11:41:11,472 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Backend received inference at: 1715321471
+2024-05-10T11:41:11,583 [INFO ] W-9006-mnist_model_1.0-stdout org.pytorch.serve.wlm.WorkerLifeCycle - result=[METRICS]PredictionTime.Milliseconds:110.1|#ModelName:mnist_model,Level:Model|#type:GAUGE|#hostname:Atifs-MacBook-Air.local,1715321471,6ff4e1a4-47e9-41ec-b46f-e2e6986a3f8f, pattern=[METRICS]
+2024-05-10T11:41:11,583 [INFO ] W-9006-mnist_model_1.0-stdout org.pytorch.serve.wlm.WorkerLifeCycle - result=[METRICS]PredictionTime.Milliseconds:110.1|#ModelName:mnist_model,Level:Model|#type:GAUGE|#hostname:Atifs-MacBook-Air.local,1715321471,6ff4e1a4-47e9-41ec-b46f-e2e6986a3f8f, pattern=[METRICS]
+2024-05-10T11:41:11,584 [INFO ] W-9006-mnist_model_1.0 ACCESS_LOG - /127.0.0.1:58181 "POST /predictions/mnist_model HTTP/1.1" 200 122
+2024-05-10T11:41:11,584 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.job.RestJob - Waiting time ns: 476916, Backend time ns: 119409125
+2024-05-10T11:41:11,584 [DEBUG] W-9006-mnist_model_1.0 org.pytorch.serve.job.RestJob - Waiting time ns: 476916, Backend time ns: 119409125
+2024-05-10T11:41:11,585 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 118
+2024-05-10T11:41:11,585 [INFO ] W-9006-mnist_model_1.0 org.pytorch.serve.wlm.WorkerThread - Backend response time: 118

@@ -1,0 +1,73 @@
+2024-05-10T11:28:00,451 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9004
+2024-05-10T11:28:00,451 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9002
+2024-05-10T11:28:00,451 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9006
+2024-05-10T11:28:00,451 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9003
+2024-05-10T11:28:00,451 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9001
+2024-05-10T11:28:00,454 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,454 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - [PID]40280
+2024-05-10T11:28:00,454 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - [PID]40278
+2024-05-10T11:28:00,454 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - [PID]40276
+2024-05-10T11:28:00,455 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,455 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,455 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,457 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,458 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,458 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,462 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-05-10T11:28:00,464 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,464 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - [PID]40283
+2024-05-10T11:28:00,465 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,465 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - [PID]40281
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,466 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,466 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9007
+2024-05-10T11:28:00,476 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - [PID]40277
+2024-05-10T11:28:00,477 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9005
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,477 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,477 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - [PID]40282
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,478 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,492 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Successfully loaded /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2024-05-10T11:28:00,493 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - [PID]40279
+2024-05-10T11:28:00,493 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-10T11:28:00,494 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Python runtime: 3.10.4
+2024-05-10T11:28:00,505 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2024-05-10T11:28:00,505 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-05-10T11:28:00,505 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2024-05-10T11:28:00,505 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2024-05-10T11:28:00,505 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2024-05-10T11:28:00,505 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2024-05-10T11:28:00,506 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2024-05-10T11:28:00,505 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2024-05-10T11:28:00,588 [INFO ] W-9004-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,588 [INFO ] W-9001-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9003-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9002-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,589 [INFO ] W-9007-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,588 [INFO ] W-9000-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:00,610 [INFO ] W-9005-mnist_model_1.0-stdout MODEL_LOG - model_name: mnist_model, batchSize: 1
+2024-05-10T11:28:01,193 [WARN ] W-9000-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,194 [WARN ] W-9000-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,196 [WARN ] W-9004-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,196 [WARN ] W-9004-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,206 [WARN ] W-9007-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,207 [WARN ] W-9007-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,207 [WARN ] W-9005-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,207 [WARN ] W-9005-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,212 [WARN ] W-9006-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,214 [WARN ] W-9006-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,216 [WARN ] W-9001-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,216 [WARN ] W-9001-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,217 [WARN ] W-9003-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,218 [WARN ] W-9003-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:28:01,221 [WARN ] W-9002-mnist_model_1.0-stderr MODEL_LOG - /Users/atifadib/opt/anaconda3/envs/torch_env/lib/python3.10/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+2024-05-10T11:28:01,221 [WARN ] W-9002-mnist_model_1.0-stderr MODEL_LOG -   _torch_pytree._register_pytree_node(
+2024-05-10T11:41:11,472 [INFO ] W-9006-mnist_model_1.0-stdout MODEL_LOG - Backend received inference at: 1715321471
