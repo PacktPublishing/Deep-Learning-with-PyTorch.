@@ -10,7 +10,7 @@ class CNN(nn.Module):
         self.conv1 = nn.Conv2d(1, 32, kernel_size=3, padding=1)
         self.conv2 = nn.Conv2d(32, 64, kernel_size=3, padding=1)
         self.fc1 = nn.Linear(64 * 32, 128)
-        self.fc2 = nn.Linear(128, 10)  # Deliberate error: Should have 64 * 7 * 7 output features
+        self.fc2 = nn.Linear(128, 10) 
 
     def forward(self, x):
         x = torch.relu(self.conv1(x))
