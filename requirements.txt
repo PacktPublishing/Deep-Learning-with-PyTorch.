@@ -201,7 +201,7 @@ torchtext==0.16.0
 torchvision==0.17.0
 torchx-nightly==2024.4.20
 tornado==6.2
-tqdm==4.66.1
+tqdm==4.66.3
 traitlets==5.9.0
 transformers==4.36.2
 typer==0.12.3
