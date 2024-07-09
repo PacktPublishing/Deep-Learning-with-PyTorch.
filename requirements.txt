@@ -226,5 +226,5 @@ widgetsnbextension==4.0.9
 y-py==0.5.5
 yarl==1.9.2
 ypy-websocket==0.8.2
-zipp==3.18.1
+zipp==3.19.1
 zstandard==0.22.0
