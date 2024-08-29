@@ -90,7 +90,7 @@ jupyter_server==2.2.1
 jupyter_server_fileid==0.6.0
 jupyter_server_terminals==0.4.4
 jupyter_server_ydoc==0.6.1
-jupyterlab==3.6.1
+jupyterlab==3.6.8
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.9
 jupyterlab_server==2.19.0
