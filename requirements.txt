@@ -122,7 +122,7 @@ numba==0.56.4
 numpy==1.23.2
 onnx==1.16.0
 onnxruntime==1.16.3
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 orjson==3.10.3
 packaging==21.3
 pandas==1.4.4
